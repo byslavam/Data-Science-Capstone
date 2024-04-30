@@ -1,1 +1,2 @@
-# Data-Science-Capstone
+# Examining the Long-Term Effects of Redlining
+This project investigates the lingering effects of redlining, a discriminatory practice formalized by the Home Owners' Loan Corporation (HOLC) during the 1930s. Our data analysis covers demographic shifts, educational proficiency, environmental justice, and socioeconomic disparities in Phoenix, Arizona. Employing a variety of methods including statistical analysis and machine learning models, this project explores the correlations between redlined areas and various aspects of life and infrastructure. 
